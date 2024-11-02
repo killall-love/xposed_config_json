@@ -7,5 +7,5 @@
   "error": "服务异常请联系作者\n或者查看参数是否传递正确【json】",
   "success": "成功",
   "port": 9098,
-  "flag": false
+  "flag": true
 }
