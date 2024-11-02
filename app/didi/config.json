@@ -2,7 +2,7 @@
   "author": "烟花小神",
   "version": "v1.0.0",
   "toast": "SignApi服务 端口号:9098",
-  "welcome": "服务启动成功，如需使用请访问 /getSign"，
+  "welcome": "服务启动成功，如需使用请访问 /getSign",
   "notPost": "该接口仅支持POST请求",
   "error": "服务异常请联系作者\n或者查看参数是否传递正确【json】",
   "success": "成功",
