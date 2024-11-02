@@ -6,6 +6,6 @@
   "notPost": "该接口仅支持POST请求",
   "error": "服务异常请联系作者\n或者查看参数是否传递正确【json】",
   "success": "成功",
-  "prot": 9098,
+  "port": 9098,
   "flag": true
 }
